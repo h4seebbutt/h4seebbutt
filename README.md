@@ -57,4 +57,5 @@ I'm always open to learning, collaboration, and connecting with fellow developer
 
 - **GitHub:** [@h4seebbutt](https://github.com/h4seebbutt)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/haseeb-butt-3ba4b4322/)
+- **Email:** [h4seebbuttt@gmail.com](mailto:h4seebbuttt@gmail.com)
 ---
